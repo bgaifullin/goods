@@ -1,3 +1,5 @@
+#!/usr/bin/pyhton
+
 from __future__ import print_function
 
 import sys
